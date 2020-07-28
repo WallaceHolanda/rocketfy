@@ -9,7 +9,7 @@
 
 <h2>💻 Sobre o Projeto<h2>
  
-<h3> Este projeto se caracteriza como um clone do website <a href="https://www.pipefy.com/pt-br/">Pipefy</a>, de modo a modelar a interface
+<h4> Este projeto se caracteriza como um clone do website <a href="https://www.pipefy.com/pt-br/">Pipefy</a>, de modo a modelar a interface
   e criar as funcionalidades de gerenciamento de cartões.
  
  
